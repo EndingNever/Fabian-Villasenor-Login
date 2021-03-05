@@ -30,14 +30,13 @@ body {
     align-items: center;
     background-color: #E9C46A;
     padding: 1em;
-    border-radius: 25px;
-     box-shadow: /*48px -45px 21px #2A9D8F, 88px -85px 25px*/ 48px -45px 21px #264653; 
+    border-radius: 30px;
+     box-shadow:48px -45px 21px #264653; 
 }
 
 
 #username {
     margin: 1em;
-    /* border-top:transparent; */
     border-left:transparent;
     border-right: transparent;
     border-top-color: transparent;
